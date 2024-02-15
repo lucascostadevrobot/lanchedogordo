@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class LanchedogordoApplication {
 
+	//Criando uma variável de testes
 	private String nomeInicial;
 
 	@GetMapping("/hellow")
